@@ -1,0 +1,4 @@
+# Niepotrzebne ignorowanie plikow tekstowych
+*.txt
+
+*.cpp
