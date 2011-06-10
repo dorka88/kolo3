@@ -1,4 +1,4 @@
-// Imie nazwisko, grupa(specjalnosc), nr. indeksu
+// Dorota Smorawa I(ABIBD), 100925
 
 #include <iostream>
 #include <fstream>
