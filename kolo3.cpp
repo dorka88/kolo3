@@ -1,5 +1,8 @@
 // Imie nazwisko, grupa(specjalnosc), nr. indeksu
 
+//Pole kola o promieniu 2.5 wynosi 19.6349
+
+
 #include <iostream>
 using namespace std;
 
